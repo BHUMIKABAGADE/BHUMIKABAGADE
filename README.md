@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikabagade&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikabagade" /> </p>
 
-- 🔭 I’m currently working on **Rainfall Prediction**
+- 🔭 I’m currently working on **Gas prices prediction**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 👨‍💻 All of my projects are available at [https://meet.google.com/wsu-yfjx-avv](https://meet.google.com/wsu-yfjx-avv)
+- 👨‍💻 All of my projects are available at https://github.com/BHUMIKABAGADE
 
 - 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **bbhumika2004@gmail.com**
 
-- 📄 Know about my experiences [https://meet.google.com/wsu-yfjx-avv](https://meet.google.com/wsu-yfjx-avv)
+- 📄 Know about my experiences https://www.linkedin.com/in/bhumika-bagade
 
 - ⚡ Fun fact **I am Creative**
 
